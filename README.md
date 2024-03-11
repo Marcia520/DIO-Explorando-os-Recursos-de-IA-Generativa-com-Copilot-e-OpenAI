@@ -1,6 +1,50 @@
-## [DIO - Explorando os Recursos de IA Generativa com Copilot e OpenAI](https://www.dio.me/)
+## [DIO - Trabalhando com IA Generativa](https://www.dio.me/)
 
-### 1. Explorar IA generativa com o Microsoft Copilot
+#### A Inteligência Artificial descreve o que está presente na imagem - Visual Studio
+
+1.1. Em um navegador da web, navegue até o Vision Studio - https://portal.vision.cognitive.azure.com/gallery/featured
+
+1.2. No início da página de destino da Visão, selecione a guia Análise de imagem e selecione o bloco Adicionar legendas a imagens.
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/ac8387ab-473d-4485-be4b-c8a14be98bbf)
+
+1.3. Adicionar legendas às imagens
+
+* Gerar uma frase legível por humanos que descreve o conteúdo de uma imagem.
+
+***Aqui pode ser usado as imagens já existentes ou fazer upload de fotos.***
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/ea9ff1e6-04b1-4073-91a1-0751c2f55665)
+
+***Imagem escolhida***
+
+![Sem título](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/b390a39d-bcd7-4459-81c2-09b0dc63e62d)
+
+***Resultado Legenda***
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/f94804ea-233f-4560-89b3-316c25a62ebd)
+
+## 2. Reconhecimento Óptico de Caracteres
+
+### A Inteligência Artificial extrai o texto que conseguir identificar na imagem, através deste recurso pode ser feito escaneamento de documentos e notas.
+
+2.1. Em um navegador da Web, navegue até o Vision Studio em https://portalvision.cognitive.azure.com.
+
+2.2. No início da página de destino da Visão, selecione Reconhecimento óptico de caracteres e, em seguida, extrair texto do bloco de imagens.
+
+2.3. Sob o subtítulo Try It Out, reconheça a política de uso de recursos lendo e marcando a caixa.
+
+2.4. Selecione https://aka.ms/mslearn-ocr-images para baixar ocr-images.zip. Em seguida, abra a pasta.
+
+2.5. No portal, selecione Procurar um arquivo e navegue até a pasta no seu computador onde você baixou ocr-images.zip. Selecione o advertidor.jpg e selecione Abrir.
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/0ed2c676-5d5c-4256-be75-a9572f16d7a9)
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/a7d3f0bb-d802-4df7-9ab7-ffae3fe31c4d)
+
+![image](https://github.com/Marcia520/DIO-Reconhecimento-Facial-e-transformacao-de-imagens-em-Dados-no-Azure-ML/assets/56965551/62b302c7-4803-4dbc-b2eb-aa734f97b33f)
+
+### Explorar IA generativa com o Microsoft Copilot
 
 1.1. Abra o copilot.microsoft.com e entre com sua conta pessoal da Microsoft.
 
@@ -12,7 +56,7 @@
 
 ### 2. Use prompts para gerar respostas
 
-![image](https://github.com/Marcia520/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/56965551/77233ae2-4fe4-4e2d-aa00-db3bc7a15ccf
+Pergunta: Fale sobre as vantagens e desvantagens em viajar no inverno.
 
 2.1. Resposta do COPILOTO
 
@@ -52,24 +96,20 @@ Viajar no inverno tem suas **vantagens** e **desvantagens**, e a escolha depende
 
 Em resumo, viajar no inverno oferece experiências únicas, mas é importante considerar esses aspectos antes de tomar sua decisão. Seja qual for a estação, aproveite ao máximo sua viagem! 🌍✈️
 
-Origem: conversa com o Bing, 10/03/2024
-(1) Vantagens e desvantagens de viajar no frio - UmTour. https://umtour.com.br/posts/vantagens-e-desvantagens-de-viajar-no-frio/.
-(2) Vale a pena viajar no Inverno Europeu? - 360meridianos. https://bing.com/search?q=vantagens+e+desvantagens+de+viajar+no+inverno.
-(3) Vale a pena viajar no Inverno Europeu? - 360meridianos. https://www.360meridianos.com/web-stories/vale-a-pena-viajar-no-inverno-europeu.
-(4) Europa no Inverno: dicas para conhecer | Operação Viagem. https://operacaoviagem.com.br/europa-no-inverno/.
-(5) Inverno na Europa: descubra o que te espera na estação da neve. https://turismo.eurodicas.com.br/inverno-na-europa/.
-
-## 3. Experimente a geração de imagens
+## 3. Experimente a geração de imagens no Copiloto
 
 3.1. Crie uma imagem de uma mulher morena, cabelos longos e pretos lendo embaixo de uma árvore, sorridente e feliz!
 
-3.2. Resultado
+3.2. Resultado:
 
 ![OIG2](https://github.com/Marcia520/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/56965551/0d1d237c-02d2-48a1-822d-534a06f0e555)
 
 ![OIG2-1](https://github.com/Marcia520/DIO-Explorando-os-Recursos-de-IA-Generativa-com-Copilot-e-OpenAI/assets/56965551/a98c4f68-1878-4b67-84a0-cde0a6a571f0)
 
 
+**Conclusão**
+
+A pesquisa visual computacional é uma área de IA (inteligência artificial) em que os sistemas de software são projetados para perceber o mundo visualmente, por meio de câmeras, imagens e vídeos. Há vários tipos específicos de problemas de pesquisa visual computacional que os engenheiros de IA e os cientistas de dados podem resolver usando uma combinação de modelos de machine learning personalizados e soluções de PaaS (plataforma como serviço), incluindo muitos serviços de IA no Microsoft Azure.
 
 
 
